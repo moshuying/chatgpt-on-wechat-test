@@ -1,0 +1,9 @@
+{
+  "tools": [
+  ],
+  "kwargs": {
+    "debug": true,
+    "morning_news_api_key": "DqLWEtIIZp2zQMNc",
+    "news_api_key": "5d6c639a44d34ca7942953b84bd5ad74",
+  }
+}
